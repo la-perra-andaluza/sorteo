@@ -1,0 +1,6 @@
+COMPROMISO DE SORTEO
+Generado: 2026-05-05T06:57:55.501720
+Hash SHA256 de la semilla: 2df2743f6387c954a1a42c85900308cf13414c70e5cddbc7277ee76fcb7f8f4f
+
+La semilla original se revelará tras el cierre de inscripciones.
+Cualquiera podrá verificar entonces que sha256(semilla) == hash de arriba.

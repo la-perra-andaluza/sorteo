@@ -1,0 +1,8 @@
+semilla_PRIVADA_*.txt
+informe_PRIVADO_*.txt
+*.csv
+informe_publico_*.txt
+
+venv/
+__pycache__/
+*.pyc
